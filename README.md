@@ -1,6 +1,6 @@
 # Hey I'm Ben! 👋
 ### 🔐 I develop software in Java currently and most of my work is private.
-### 📅 I dabble in some Linux and SQL databases. 
+### 🐧 I dabble in some Linux and SQL databases. 
 ### 😄 19 years old from Canada. 😄
 #
 
